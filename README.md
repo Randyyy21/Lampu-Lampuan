@@ -2,7 +2,8 @@
 
 codingan sederhana lampu on/off
 
-jika ingin di perbaiki saya ucapkan terima kasih. mohon maaf jika codingan saya aneh
+jika ingin di perbaiki saya ucapkan terima kasih. mohon maaf jika codingan saya aneh hehehe
+
 
 Menggunakan HTML tailwind JAVASCRIPT 
 
